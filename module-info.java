@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author murugansrinivasan
+ *
+ */
+module sampleJava {
+}
